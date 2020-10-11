@@ -1,2 +1,2 @@
-# ArcoLinuxB-Deepin Calamares configuration
+# ArcoLinuxB-Dwm Calamares configuration
 
